@@ -1,6 +1,7 @@
 # SQL-project
 
 Question #1: What is the movie with the highest average_rating of the year 2022- in case of same average_rating give the one with more num_votes - with more than 100,000 num_votes ?
+
 SELECT 
 primary_title,
 num_votes,
